@@ -1,3 +1,5 @@
+// mock test 1
+
 function findMedian(arr) {
     arr.sort((a,b) => a-b);
     let median = Math.floor(arr.length / 2);

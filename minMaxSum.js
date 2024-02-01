@@ -1,3 +1,5 @@
+// problem 2
+
 function miniMaxSum(arr) {
     let sortedArr = arr.sort((a, b) => a - b);
     let min = 0;

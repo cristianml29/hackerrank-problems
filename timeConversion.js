@@ -1,3 +1,5 @@
+// problem 3
+
 function timeConversion(s) {
     let arr = s.split("");
     let hours = arr[0] + arr[1];

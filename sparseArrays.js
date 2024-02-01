@@ -1,3 +1,5 @@
+// problem 7
+
 function matchingStrings(strings, queries) {
     let result = [];
     for (let i = 0; i < queries.length; i++) {
